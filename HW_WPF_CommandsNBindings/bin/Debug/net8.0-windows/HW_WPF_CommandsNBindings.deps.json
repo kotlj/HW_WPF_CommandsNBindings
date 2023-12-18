@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "HW_WPF_CommandsNBindings/1.0.0": {
+        "runtime": {
+          "HW_WPF_CommandsNBindings.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HW_WPF_CommandsNBindings/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
